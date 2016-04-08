@@ -36,6 +36,12 @@ You can see more under examples/ directory.
 
 Clone GPS repository to your project lib/ directory.
 
+## GPS Modules
+
+| model  |GGA|GLL|GSA|GSV|MSS|RMC|VTG|ZDA|
+|:------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|GMS6-CR6|o  |o  |o  |o  |-  |o  |o  |-  |
+
 ## Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
